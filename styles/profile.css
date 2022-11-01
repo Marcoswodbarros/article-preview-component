@@ -1,0 +1,36 @@
+.profile{
+    align-items: center;
+    display: flex;
+    margin-top: 1rem;
+}
+
+.profile__pic{
+    border-radius: 50%;
+    height: 2.5rem;
+    margin-left: 2rem;
+}
+
+.profile__text{
+    display: flex;
+    flex-direction: column;
+    line-height: 1.3rem;
+    margin-left: 1rem;
+    margin-right: 4rem;
+}
+
+.span__name{
+    color: var(--color-very-dark-grayish-blue);
+    font-family: var(--font-manrope);
+    font-weight: 700;
+}
+
+.span__date{
+    color: var(--color-grayish-blue);
+    font-family: var(--font-manrope);
+}
+
+.profile__shareIcon{
+    background-color: var(--color-light-grayish-blue);
+    border-radius: 50%;
+    padding: .5rem;
+}

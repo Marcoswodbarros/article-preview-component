@@ -1,4 +1,6 @@
 @import url(main.css);
+@import url(profile.css);
+@import url(sharing.css);
 
 :root{
     --color-desaturated-dark-blue: hsl(214, 17%, 51%);
@@ -17,5 +19,5 @@
 body{
     background-color: var(--color-light-grayish-blue);
     font-size: 13px;
-    margin: 4rem 1.5rem 4rem;
+    margin: 4.5rem 1.5rem 4rem;
 }
