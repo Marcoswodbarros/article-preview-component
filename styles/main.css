@@ -1,0 +1,68 @@
+main{
+    background-color: var(--color-white);
+    border-radius: .6rem;
+    padding-bottom: 1.5rem;
+    width: 100%;
+}
+
+.mobile__picture{
+    background-image: url(../images/drawers.jpg);
+    background-size: 20.42rem 15rem;
+    background-position: 0rem 1rem 0rem 1rem;
+    border-radius: .6rem .6rem 0rem 0rem;
+    height: 30vh;
+}
+
+h1, p{
+    color: var(--color-very-dark-grayish-blue);
+    font-family: var(--font-manrope);
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.3rem;
+    padding: 2.5rem 2rem .8rem;
+}
+
+p{
+    color: var(--color-desaturated-dark-blue);
+    font-size: .8rem;
+    font-weight: 400;
+    padding-right: 2.7rem;
+    padding-top: 0rem;
+}
+
+.profilePic{
+    border-radius: 50%;
+    height: 2.5rem;
+    margin-left: 2rem;
+}
+
+.span__name{
+    color: var(--color-very-dark-grayish-blue);
+    font-family: var(--font-manrope);
+    font-weight: 700;
+}
+
+.span__date{
+    color: var(--color-grayish-blue);
+    font-family: var(--font-manrope);
+}
+
+.main__introducing{
+    align-items: center;
+    display: flex;
+    margin-top: 1rem;
+}
+
+.introducing__text{
+    display: flex;
+    flex-direction: column;
+    line-height: 1.3rem;
+    margin-left: 1rem;
+    margin-right: 4rem;
+}
+
+.shareIcon{
+    background-color: var(--color-light-grayish-blue);
+    border-radius: 50%;
+    padding: .5rem;
+}
