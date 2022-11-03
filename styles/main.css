@@ -1,7 +1,6 @@
 main{
     background-color: var(--color-white);
     border-radius: .6rem;
-    padding-bottom: 1.5rem;
     width: 100%;
 }
 

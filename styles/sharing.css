@@ -3,6 +3,7 @@
     background-color: var(--color-very-dark-grayish-blue);
     border-radius: 0rem 0rem .6rem .6rem;
     display: flex;
+    margin-top: .5rem;
 
     display: none;
 }
