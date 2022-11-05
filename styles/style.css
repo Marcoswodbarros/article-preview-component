@@ -24,6 +24,7 @@ body{
 
 
 
+/* -----------------------------------------------*/
 
 @media screen and (min-width: 1024px){
     body{
@@ -32,4 +33,14 @@ body{
         margin-bottom: 0rem;
         margin-top: 11rem;
     }
+}
+
+
+
+/* -----------------------------------------------*/
+
+@media screen and (min-width: 1440px){
+    body{
+        margin-top: 15.5rem
+    };    
 }

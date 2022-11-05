@@ -38,8 +38,8 @@ p{
 @media screen and (min-width: 1024px){
     main{
         display: flex;
+        position: fixed;
         width: 70%;
-        position: relative;
     }
 
     .mobile__picture{
@@ -57,16 +57,39 @@ p{
     }
 
     h1{
-        font-size: 1.21rem;
+        font-size: 1.23rem;
         line-height: 1.7rem;
         padding-top: 2rem;
     }
 
     p{
         font-size: .76rem;
+        width: 99%;
     }
 
     .container__desktop{
         width: 100%;
+    }
+}
+
+
+
+/* -----------------------------------------------*/
+
+@media screen and (min-width: 1440px){
+    .main__text{
+        padding-left: 1.8rem;
+        padding-right: 1.4rem;
+        padding-top: 1.5rem;
+    }
+
+    h1{
+        font-size: 1.8rem;
+        line-height: 2.2rem;
+    }
+    
+    p{
+        font-size: 1.1rem;
+        line-height: 1.7rem;
     }
 }
