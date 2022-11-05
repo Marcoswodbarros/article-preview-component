@@ -6,6 +6,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,10 +23,14 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See the social media share links when they click the share icon
 
+### Screenshot
+
+![](./screenshot.jpg)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Marcoswodbarros/article-preview-component.git)
+- Live Site URL: (https://marcoswodbarros.github.io/article-preview-component/)
 
 
 ## My process
