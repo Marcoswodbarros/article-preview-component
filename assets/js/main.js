@@ -1,3 +1,4 @@
+/*
 let share = document.querySelector(".profile__shareIcon").addEventListener("click touchstart", function () {
     document.querySelector(".sharing").style.display="flex";
 });
@@ -5,7 +6,7 @@ let share = document.querySelector(".profile__shareIcon").addEventListener("clic
 let hide = document.querySelector(".sharing__icon").addEventListener("click touchstart", function () {
     document.querySelector(".sharing").style.display="none";
 });
-
+*/
 
 
 let shareDesktop = document.querySelector(".profile__shareIcon").addEventListener("click", function () {

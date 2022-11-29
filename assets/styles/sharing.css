@@ -3,13 +3,14 @@
     background-color: var(--color-very-dark-grayish-blue);
     border-radius: 0rem 0rem .6rem .6rem;
     display: flex;
+    gap: 1rem;
     margin-top: .5rem;
     padding: .5rem .4rem;
+    height: 10%;
 
-    display: none;
-    position: relative;
-    bottom: 14.5rem;
-    width: 100%;
+    position: absolute;
+    top: 73.6%;
+    width: 87.5%;
 }
 
 .sharing__text{
@@ -23,11 +24,6 @@
 
 .facebook__icon, .twitter__icon, .pinterest__icon{
     color: var(--color-white);
-    padding: .5rem;
-}
-
-.pinterest__icon{
-    margin-right: 2.2rem;
 }
 
 .sharing__icon{
@@ -35,6 +31,9 @@
     background: var(--color-desaturated-dark-blue);
     border-radius: 50%;
     padding: .7rem;
+
+    position: relative;
+    left: 6.8%;
 }
 
 #sharing__background{
@@ -72,10 +71,6 @@
 
     .facebook__icon, .twitter__icon, .pinterest__icon{
         padding: .3rem .5rem;
-    }
-
-    .pinterest__icon{
-        margin-right: 1rem;
     }
 
     .sharing__icon{
